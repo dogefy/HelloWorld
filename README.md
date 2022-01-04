@@ -6,4 +6,6 @@ It is also a repo to learn markdown !
 I change something on branch *test*  
 here is banch *main* 
 
+this is on branch **test**
+
 *Update on 2022/1/4 by fangyi*
