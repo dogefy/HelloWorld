@@ -1,13 +1,6 @@
-for i in range(5):
-    print("hello")
-print("world-hi")
-'''
-    so what is the main.py file ????
-'''
-print("branch main")
-
-
-print('hitese')
-print('hi544564')
-
-print("111")
+import time
+f=open('log.txt','w')
+a=time.localtime()
+a=time.asctime(a)
+f.write(str(a))
+f.close()
