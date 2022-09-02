@@ -8,3 +8,5 @@ f.write('hahaha')
 f.close()
 for i in range(100):
     pass
+for i in range(1009):
+    pass
